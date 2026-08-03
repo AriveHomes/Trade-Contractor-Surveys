@@ -1,0 +1,950 @@
+Contractor,Department,Category,AvgScore,Responses
+ASB Flatwork,Construction,Attention to Detail,7.8,4
+ASB Flatwork,Construction,Avoids VPO Requests,9.2,4
+ASB Flatwork,Construction,Communication,8.2,4
+ASB Flatwork,Construction,Follow Through,7.8,4
+ASB Flatwork,Construction,Plan/CSA Compliance,7.5,4
+ASB Flatwork,Construction,Problem Resolution,7.2,4
+ASB Flatwork,Construction,Schedule Reliability,8.5,4
+ASB Flatwork,Construction,Trade Coordination,8.2,4
+ASB Flatwork,Construction,Work Quality,7.8,4
+ASB Flatwork,Construction,Would Choose Again,8.0,4
+ASB Flatwork,Purchasing,Avoids Work Order Adjustments,9.0,1
+ASB Flatwork,Purchasing,Bid Accuracy,9.0,1
+ASB Flatwork,Purchasing,Invoice Accuracy,8.0,1
+ASB Flatwork,Purchasing,Overall Value,9.0,1
+ASB Flatwork,Purchasing,Pricing Competitiveness,8.0,1
+ASB Flatwork,Purchasing,Proactive Communication,8.0,1
+ASB Flatwork,Purchasing,Responsiveness,8.0,1
+ASB Flatwork,Purchasing,Trust & Accountability,10.0,1
+Air Express,Purchasing,Avoids Work Order Adjustments,10.0,1
+Air Express,Purchasing,Bid Accuracy,9.0,1
+Air Express,Purchasing,Overall Value,8.0,1
+Air Express,Purchasing,Pricing Competitiveness,10.0,1
+Air Express,Purchasing,Proactive Communication,8.0,1
+Air Express,Purchasing,Responsiveness,9.0,1
+Air Express,Purchasing,Trust & Accountability,8.0,1
+Air Express,Warranty,Accountability,9.5,2
+Air Express,Warranty,First-Time Fix,9.5,2
+Air Express,Warranty,Homeowner Professionalism,9.5,2
+Air Express,Warranty,Response Time,9.5,2
+Air Express,Warranty,Scheduling Reliability,9.5,2
+Air Express,Warranty,Would Choose Again,9.5,2
+Alpine Fireplace,Construction,Attention to Detail,9.5,4
+Alpine Fireplace,Construction,Avoids VPO Requests,8.8,4
+Alpine Fireplace,Construction,Communication,8.8,4
+Alpine Fireplace,Construction,Follow Through,9.2,4
+Alpine Fireplace,Construction,Plan/CSA Compliance,9.8,4
+Alpine Fireplace,Construction,Problem Resolution,9.5,4
+Alpine Fireplace,Construction,Schedule Reliability,9.0,4
+Alpine Fireplace,Construction,Trade Coordination,9.5,4
+Alpine Fireplace,Construction,Work Quality,9.5,4
+Alpine Fireplace,Construction,Would Choose Again,9.5,4
+Alpine Fireplace,Purchasing,Avoids Work Order Adjustments,9.0,1
+Alpine Fireplace,Purchasing,Bid Accuracy,8.0,3
+Alpine Fireplace,Purchasing,Overall Value,8.3,3
+Alpine Fireplace,Purchasing,Pricing Competitiveness,7.0,1
+Alpine Fireplace,Purchasing,Proactive Communication,7.0,3
+Alpine Fireplace,Purchasing,Responsiveness,7.7,3
+Alpine Fireplace,Purchasing,Trust & Accountability,7.3,3
+Alpine Fireplace,Warranty,Accountability,9.0,2
+Alpine Fireplace,Warranty,First-Time Fix,9.0,2
+Alpine Fireplace,Warranty,Homeowner Professionalism,9.0,2
+Alpine Fireplace,Warranty,Response Time,9.0,2
+Alpine Fireplace,Warranty,Scheduling Reliability,9.0,2
+Alpine Fireplace,Warranty,Would Choose Again,9.0,2
+American Curb Cut,Construction,Attention to Detail,8.5,4
+American Curb Cut,Construction,Avoids VPO Requests,9.0,4
+American Curb Cut,Construction,Communication,8.2,4
+American Curb Cut,Construction,Follow Through,9.8,4
+American Curb Cut,Construction,Plan/CSA Compliance,9.5,4
+American Curb Cut,Construction,Problem Resolution,9.0,4
+American Curb Cut,Construction,Schedule Reliability,9.8,4
+American Curb Cut,Construction,Trade Coordination,8.0,4
+American Curb Cut,Construction,Work Quality,9.5,4
+American Curb Cut,Construction,Would Choose Again,9.8,4
+Atlas Engineering,Construction,Attention to Detail,9.7,3
+Atlas Engineering,Construction,Avoids VPO Requests,10.0,3
+Atlas Engineering,Construction,Communication,9.7,3
+Atlas Engineering,Construction,Follow Through,9.7,3
+Atlas Engineering,Construction,Plan/CSA Compliance,9.7,3
+Atlas Engineering,Construction,Problem Resolution,9.7,3
+Atlas Engineering,Construction,Schedule Reliability,9.7,3
+Atlas Engineering,Construction,Trade Coordination,9.7,3
+Atlas Engineering,Construction,Work Quality,9.7,3
+Atlas Engineering,Construction,Would Choose Again,10.0,3
+Ault,Construction,Attention to Detail,8.0,4
+Ault,Construction,Avoids VPO Requests,4.5,4
+Ault,Construction,Communication,7.5,4
+Ault,Construction,Follow Through,7.0,4
+Ault,Construction,Plan/CSA Compliance,8.2,4
+Ault,Construction,Problem Resolution,6.8,4
+Ault,Construction,Schedule Reliability,7.5,4
+Ault,Construction,Trade Coordination,8.2,4
+Ault,Construction,Work Quality,7.8,4
+Ault,Construction,Would Choose Again,7.2,4
+Ault,Purchasing,Avoids Work Order Adjustments,4.0,1
+Ault,Purchasing,Bid Accuracy,8.0,2
+Ault,Purchasing,Invoice Accuracy,7.0,1
+Ault,Purchasing,Overall Value,8.5,2
+Ault,Purchasing,Pricing Competitiveness,10.0,1
+Ault,Purchasing,Proactive Communication,8.5,2
+Ault,Purchasing,Responsiveness,7.5,2
+Ault,Purchasing,Trust & Accountability,8.0,2
+Ault,Warranty,Accountability,8.5,2
+Ault,Warranty,First-Time Fix,9.0,2
+Ault,Warranty,Homeowner Professionalism,9.0,2
+Ault,Warranty,Response Time,6.5,2
+Ault,Warranty,Scheduling Reliability,6.0,2
+Ault,Warranty,Would Choose Again,9.0,2
+BGW,Construction,Attention to Detail,10.0,4
+BGW,Construction,Avoids VPO Requests,9.5,4
+BGW,Construction,Communication,10.0,4
+BGW,Construction,Follow Through,10.0,4
+BGW,Construction,Plan/CSA Compliance,10.0,4
+BGW,Construction,Problem Resolution,10.0,4
+BGW,Construction,Schedule Reliability,10.0,4
+BGW,Construction,Trade Coordination,10.0,4
+BGW,Construction,Work Quality,9.5,4
+BGW,Construction,Would Choose Again,10.0,4
+BGW,Purchasing,Avoids Work Order Adjustments,9.0,1
+BGW,Purchasing,Bid Accuracy,9.3,3
+BGW,Purchasing,Invoice Accuracy,9.0,1
+BGW,Purchasing,Overall Value,9.7,3
+BGW,Purchasing,Pricing Competitiveness,10.0,1
+BGW,Purchasing,Proactive Communication,9.0,3
+BGW,Purchasing,Responsiveness,10.0,3
+BGW,Purchasing,Trust & Accountability,10.0,3
+BGW,Warranty,Accountability,10.0,2
+BGW,Warranty,First-Time Fix,10.0,2
+BGW,Warranty,Homeowner Professionalism,10.0,2
+BGW,Warranty,Response Time,10.0,2
+BGW,Warranty,Scheduling Reliability,10.0,2
+BGW,Warranty,Would Choose Again,10.0,2
+Bardsley and Sons,Construction,Attention to Detail,6.5,4
+Bardsley and Sons,Construction,Avoids VPO Requests,8.8,4
+Bardsley and Sons,Construction,Communication,7.0,4
+Bardsley and Sons,Construction,Follow Through,6.8,4
+Bardsley and Sons,Construction,Plan/CSA Compliance,7.5,4
+Bardsley and Sons,Construction,Problem Resolution,5.8,4
+Bardsley and Sons,Construction,Schedule Reliability,7.2,4
+Bardsley and Sons,Construction,Trade Coordination,6.0,4
+Bardsley and Sons,Construction,Work Quality,6.8,4
+Bardsley and Sons,Construction,Would Choose Again,5.8,4
+Bardsley and Sons,Purchasing,Avoids Work Order Adjustments,9.0,1
+Bardsley and Sons,Purchasing,Bid Accuracy,9.0,3
+Bardsley and Sons,Purchasing,Overall Value,6.5,2
+Bardsley and Sons,Purchasing,Pricing Competitiveness,7.3,3
+Bardsley and Sons,Purchasing,Proactive Communication,8.0,3
+Bardsley and Sons,Purchasing,Responsiveness,5.7,3
+Bardsley and Sons,Purchasing,Trust & Accountability,9.0,2
+Bardsley and Sons,Warranty,Accountability,7.5,2
+Bardsley and Sons,Warranty,First-Time Fix,9.0,2
+Bardsley and Sons,Warranty,Homeowner Professionalism,8.5,2
+Bardsley and Sons,Warranty,Response Time,6.0,2
+Bardsley and Sons,Warranty,Scheduling Reliability,7.0,2
+Bardsley and Sons,Warranty,Would Choose Again,7.0,2
+Cade Builder Services,Construction,Attention to Detail,9.0,1
+Cade Builder Services,Construction,Avoids VPO Requests,10.0,1
+Cade Builder Services,Construction,Communication,9.0,1
+Cade Builder Services,Construction,Follow Through,9.0,1
+Cade Builder Services,Construction,Plan/CSA Compliance,9.0,1
+Cade Builder Services,Construction,Problem Resolution,7.0,1
+Cade Builder Services,Construction,Schedule Reliability,9.0,1
+Cade Builder Services,Construction,Trade Coordination,9.0,1
+Cade Builder Services,Construction,Work Quality,9.0,1
+Cade Builder Services,Construction,Would Choose Again,9.0,1
+Cade Builder Services,Purchasing,Avoids Work Order Adjustments,9.0,1
+Cade Builder Services,Purchasing,Bid Accuracy,9.5,2
+Cade Builder Services,Purchasing,Invoice Accuracy,8.0,1
+Cade Builder Services,Purchasing,Overall Value,8.0,2
+Cade Builder Services,Purchasing,Pricing Competitiveness,10.0,1
+Cade Builder Services,Purchasing,Proactive Communication,9.0,2
+Cade Builder Services,Purchasing,Responsiveness,7.5,2
+Cade Builder Services,Purchasing,Trust & Accountability,7.0,2
+Contract Appliance,Construction,Attention to Detail,9.0,2
+Contract Appliance,Construction,Avoids VPO Requests,10.0,2
+Contract Appliance,Construction,Communication,9.5,2
+Contract Appliance,Construction,Follow Through,9.5,2
+Contract Appliance,Construction,Plan/CSA Compliance,9.5,2
+Contract Appliance,Construction,Problem Resolution,9.0,2
+Contract Appliance,Construction,Schedule Reliability,9.5,2
+Contract Appliance,Construction,Trade Coordination,8.0,2
+Contract Appliance,Construction,Work Quality,8.0,2
+Contract Appliance,Construction,Would Choose Again,8.5,2
+Contract Appliance,Purchasing,Avoids Work Order Adjustments,7.5,2
+Contract Appliance,Purchasing,Bid Accuracy,8.3,3
+Contract Appliance,Purchasing,Invoice Accuracy,7.0,1
+Contract Appliance,Purchasing,Overall Value,7.7,3
+Contract Appliance,Purchasing,Pricing Competitiveness,8.5,2
+Contract Appliance,Purchasing,Proactive Communication,8.0,3
+Contract Appliance,Purchasing,Responsiveness,8.3,3
+Contract Appliance,Purchasing,Trust & Accountability,8.0,2
+Contract Appliance,Warranty,Accountability,10.0,1
+Contract Appliance,Warranty,First-Time Fix,10.0,1
+Contract Appliance,Warranty,Homeowner Professionalism,10.0,1
+Contract Appliance,Warranty,Response Time,10.0,1
+Contract Appliance,Warranty,Scheduling Reliability,10.0,1
+Contract Appliance,Warranty,Would Choose Again,10.0,1
+Creative Granite,Construction,Attention to Detail,5.0,4
+Creative Granite,Construction,Avoids VPO Requests,8.5,4
+Creative Granite,Construction,Communication,6.2,4
+Creative Granite,Construction,Follow Through,6.5,4
+Creative Granite,Construction,Plan/CSA Compliance,5.8,4
+Creative Granite,Construction,Problem Resolution,6.2,4
+Creative Granite,Construction,Schedule Reliability,7.2,4
+Creative Granite,Construction,Trade Coordination,6.8,4
+Creative Granite,Construction,Work Quality,6.2,4
+Creative Granite,Construction,Would Choose Again,6.0,4
+Creative Granite,Purchasing,Avoids Work Order Adjustments,10.0,1
+Creative Granite,Purchasing,Bid Accuracy,8.0,3
+Creative Granite,Purchasing,Invoice Accuracy,6.0,1
+Creative Granite,Purchasing,Overall Value,6.3,3
+Creative Granite,Purchasing,Pricing Competitiveness,7.0,1
+Creative Granite,Purchasing,Proactive Communication,6.3,3
+Creative Granite,Purchasing,Responsiveness,5.0,3
+Creative Granite,Purchasing,Trust & Accountability,8.0,3
+Creative Granite,Warranty,Accountability,7.5,2
+Creative Granite,Warranty,First-Time Fix,8.5,2
+Creative Granite,Warranty,Homeowner Professionalism,8.0,2
+Creative Granite,Warranty,Response Time,6.5,2
+Creative Granite,Warranty,Scheduling Reliability,6.5,2
+Creative Granite,Warranty,Would Choose Again,7.5,2
+Custom Flow,Construction,Attention to Detail,6.8,4
+Custom Flow,Construction,Avoids VPO Requests,7.5,4
+Custom Flow,Construction,Communication,7.8,4
+Custom Flow,Construction,Follow Through,7.2,4
+Custom Flow,Construction,Plan/CSA Compliance,8.5,4
+Custom Flow,Construction,Problem Resolution,6.0,4
+Custom Flow,Construction,Schedule Reliability,8.0,4
+Custom Flow,Construction,Trade Coordination,9.0,4
+Custom Flow,Construction,Work Quality,7.5,4
+Custom Flow,Construction,Would Choose Again,7.8,4
+Custom Flow,Purchasing,Avoids Work Order Adjustments,8.0,1
+Custom Flow,Purchasing,Bid Accuracy,8.0,1
+Custom Flow,Purchasing,Invoice Accuracy,7.0,1
+Custom Flow,Purchasing,Overall Value,9.0,1
+Custom Flow,Purchasing,Pricing Competitiveness,8.0,1
+Custom Flow,Purchasing,Proactive Communication,8.0,1
+Custom Flow,Purchasing,Responsiveness,8.0,1
+Custom Flow,Purchasing,Trust & Accountability,10.0,1
+Custom Flow,Warranty,Accountability,9.0,2
+Custom Flow,Warranty,First-Time Fix,9.0,2
+Custom Flow,Warranty,Homeowner Professionalism,9.0,2
+Custom Flow,Warranty,Response Time,7.0,2
+Custom Flow,Warranty,Scheduling Reliability,7.0,2
+Custom Flow,Warranty,Would Choose Again,8.5,2
+DLM,Construction,Attention to Detail,9.8,4
+DLM,Construction,Avoids VPO Requests,10.0,4
+DLM,Construction,Communication,9.8,4
+DLM,Construction,Follow Through,9.8,4
+DLM,Construction,Plan/CSA Compliance,9.8,4
+DLM,Construction,Problem Resolution,9.8,4
+DLM,Construction,Schedule Reliability,10.0,4
+DLM,Construction,Trade Coordination,8.2,4
+DLM,Construction,Work Quality,9.8,4
+DLM,Construction,Would Choose Again,10.0,4
+DLM,Warranty,Accountability,10.0,1
+DLM,Warranty,First-Time Fix,10.0,1
+DLM,Warranty,Homeowner Professionalism,10.0,1
+DLM,Warranty,Response Time,10.0,1
+DLM,Warranty,Scheduling Reliability,10.0,1
+DLM,Warranty,Would Choose Again,10.0,1
+Delta Pro,Construction,Attention to Detail,8.0,4
+Delta Pro,Construction,Avoids VPO Requests,8.2,4
+Delta Pro,Construction,Communication,8.5,4
+Delta Pro,Construction,Follow Through,8.8,4
+Delta Pro,Construction,Plan/CSA Compliance,9.2,4
+Delta Pro,Construction,Problem Resolution,8.0,4
+Delta Pro,Construction,Schedule Reliability,9.2,4
+Delta Pro,Construction,Trade Coordination,8.5,4
+Delta Pro,Construction,Work Quality,8.2,4
+Delta Pro,Construction,Would Choose Again,8.2,4
+Delta Pro,Warranty,Accountability,10.0,1
+Delta Pro,Warranty,First-Time Fix,10.0,1
+Delta Pro,Warranty,Homeowner Professionalism,10.0,1
+Delta Pro,Warranty,Response Time,10.0,1
+Delta Pro,Warranty,Scheduling Reliability,10.0,1
+Delta Pro,Warranty,Would Choose Again,10.0,1
+Designer Marble,Construction,Attention to Detail,8.0,4
+Designer Marble,Construction,Avoids VPO Requests,8.8,4
+Designer Marble,Construction,Communication,7.8,4
+Designer Marble,Construction,Follow Through,7.2,4
+Designer Marble,Construction,Plan/CSA Compliance,9.0,4
+Designer Marble,Construction,Problem Resolution,7.8,4
+Designer Marble,Construction,Schedule Reliability,8.2,4
+Designer Marble,Construction,Trade Coordination,8.8,4
+Designer Marble,Construction,Work Quality,7.8,4
+Designer Marble,Construction,Would Choose Again,8.0,4
+Designer Marble,Purchasing,Avoids Work Order Adjustments,8.0,1
+Designer Marble,Purchasing,Bid Accuracy,7.7,3
+Designer Marble,Purchasing,Invoice Accuracy,8.0,1
+Designer Marble,Purchasing,Overall Value,8.0,3
+Designer Marble,Purchasing,Pricing Competitiveness,7.0,1
+Designer Marble,Purchasing,Proactive Communication,9.0,2
+Designer Marble,Purchasing,Responsiveness,8.0,3
+Designer Marble,Purchasing,Trust & Accountability,7.7,3
+Designer Marble,Warranty,Accountability,10.0,1
+Designer Marble,Warranty,First-Time Fix,8.0,1
+Designer Marble,Warranty,Homeowner Professionalism,10.0,1
+Designer Marble,Warranty,Response Time,8.0,1
+Designer Marble,Warranty,Scheduling Reliability,8.0,1
+Designer Marble,Warranty,Would Choose Again,10.0,1
+Everlast,Construction,Attention to Detail,8.8,4
+Everlast,Construction,Avoids VPO Requests,9.0,4
+Everlast,Construction,Communication,8.8,4
+Everlast,Construction,Follow Through,8.8,4
+Everlast,Construction,Plan/CSA Compliance,9.2,4
+Everlast,Construction,Problem Resolution,8.8,4
+Everlast,Construction,Schedule Reliability,9.5,4
+Everlast,Construction,Trade Coordination,9.2,4
+Everlast,Construction,Work Quality,8.8,4
+Everlast,Construction,Would Choose Again,9.2,4
+Everlast,Purchasing,Avoids Work Order Adjustments,9.0,1
+Everlast,Purchasing,Bid Accuracy,9.7,3
+Everlast,Purchasing,Overall Value,9.0,3
+Everlast,Purchasing,Pricing Competitiveness,9.0,1
+Everlast,Purchasing,Proactive Communication,8.3,3
+Everlast,Purchasing,Responsiveness,8.3,3
+Everlast,Purchasing,Trust & Accountability,9.0,3
+Everlast,Warranty,Accountability,9.5,2
+Everlast,Warranty,First-Time Fix,9.5,2
+Everlast,Warranty,Homeowner Professionalism,9.5,2
+Everlast,Warranty,Response Time,8.5,2
+Everlast,Warranty,Scheduling Reliability,9.0,2
+Everlast,Warranty,Would Choose Again,9.5,2
+Fashion Cabinets,Construction,Attention to Detail,9.0,4
+Fashion Cabinets,Construction,Avoids VPO Requests,9.0,4
+Fashion Cabinets,Construction,Communication,9.2,4
+Fashion Cabinets,Construction,Follow Through,9.2,4
+Fashion Cabinets,Construction,Plan/CSA Compliance,9.5,4
+Fashion Cabinets,Construction,Problem Resolution,9.2,4
+Fashion Cabinets,Construction,Schedule Reliability,9.2,4
+Fashion Cabinets,Construction,Trade Coordination,9.0,4
+Fashion Cabinets,Construction,Work Quality,9.0,4
+Fashion Cabinets,Construction,Would Choose Again,9.2,4
+Fashion Cabinets,Purchasing,Avoids Work Order Adjustments,9.0,1
+Fashion Cabinets,Purchasing,Bid Accuracy,9.7,3
+Fashion Cabinets,Purchasing,Invoice Accuracy,9.0,1
+Fashion Cabinets,Purchasing,Overall Value,9.0,3
+Fashion Cabinets,Purchasing,Pricing Competitiveness,7.0,1
+Fashion Cabinets,Purchasing,Proactive Communication,9.0,3
+Fashion Cabinets,Purchasing,Responsiveness,8.7,3
+Fashion Cabinets,Purchasing,Trust & Accountability,9.0,3
+Fashion Cabinets,Warranty,Accountability,9.0,2
+Fashion Cabinets,Warranty,First-Time Fix,9.0,2
+Fashion Cabinets,Warranty,Homeowner Professionalism,8.5,2
+Fashion Cabinets,Warranty,Response Time,7.5,2
+Fashion Cabinets,Warranty,Scheduling Reliability,8.0,2
+Fashion Cabinets,Warranty,Would Choose Again,9.0,2
+Five Star,Construction,Attention to Detail,5.0,1
+Five Star,Construction,Avoids VPO Requests,10.0,1
+Five Star,Construction,Communication,5.0,1
+Five Star,Construction,Follow Through,5.0,1
+Five Star,Construction,Problem Resolution,5.0,1
+Five Star,Construction,Schedule Reliability,8.0,1
+Five Star,Construction,Trade Coordination,10.0,1
+Five Star,Construction,Work Quality,7.0,1
+Five Star,Construction,Would Choose Again,7.0,1
+Five Star,Purchasing,Avoids Work Order Adjustments,9.0,1
+Five Star,Purchasing,Bid Accuracy,7.0,2
+Five Star,Purchasing,Overall Value,4.0,2
+Five Star,Purchasing,Pricing Competitiveness,7.0,1
+Five Star,Purchasing,Proactive Communication,6.0,2
+Five Star,Purchasing,Responsiveness,4.0,2
+Five Star,Purchasing,Trust & Accountability,5.5,2
+Five Star,Warranty,Accountability,6.5,2
+Five Star,Warranty,First-Time Fix,9.0,2
+Five Star,Warranty,Homeowner Professionalism,9.0,2
+Five Star,Warranty,Response Time,5.0,2
+Five Star,Warranty,Scheduling Reliability,5.0,2
+Five Star,Warranty,Would Choose Again,5.5,2
+Gillette,Construction,Attention to Detail,7.0,4
+Gillette,Construction,Avoids VPO Requests,8.8,4
+Gillette,Construction,Communication,7.0,4
+Gillette,Construction,Follow Through,6.8,4
+Gillette,Construction,Plan/CSA Compliance,8.0,4
+Gillette,Construction,Problem Resolution,6.8,4
+Gillette,Construction,Schedule Reliability,7.5,4
+Gillette,Construction,Trade Coordination,7.8,4
+Gillette,Construction,Work Quality,6.8,4
+Gillette,Construction,Would Choose Again,7.2,4
+Gillette,Purchasing,Avoids Work Order Adjustments,9.0,1
+Gillette,Purchasing,Bid Accuracy,8.7,3
+Gillette,Purchasing,Invoice Accuracy,7.0,1
+Gillette,Purchasing,Overall Value,8.3,3
+Gillette,Purchasing,Pricing Competitiveness,10.0,1
+Gillette,Purchasing,Proactive Communication,8.0,3
+Gillette,Purchasing,Responsiveness,8.0,3
+Gillette,Purchasing,Trust & Accountability,7.3,3
+Gillette,Warranty,Accountability,8.5,2
+Gillette,Warranty,First-Time Fix,7.5,2
+Gillette,Warranty,Homeowner Professionalism,9.0,2
+Gillette,Warranty,Response Time,9.0,2
+Gillette,Warranty,Scheduling Reliability,8.5,2
+Gillette,Warranty,Would Choose Again,7.0,2
+IGOTPOOP,Construction,Attention to Detail,8.0,4
+IGOTPOOP,Construction,Avoids VPO Requests,10.0,4
+IGOTPOOP,Construction,Communication,8.0,4
+IGOTPOOP,Construction,Follow Through,8.0,4
+IGOTPOOP,Construction,Plan/CSA Compliance,9.2,4
+IGOTPOOP,Construction,Problem Resolution,7.5,4
+IGOTPOOP,Construction,Schedule Reliability,8.8,4
+IGOTPOOP,Construction,Trade Coordination,9.7,3
+IGOTPOOP,Construction,Work Quality,8.0,4
+IGOTPOOP,Construction,Would Choose Again,8.0,4
+J2,Construction,Attention to Detail,4.2,4
+J2,Construction,Avoids VPO Requests,7.5,4
+J2,Construction,Communication,5.2,4
+J2,Construction,Follow Through,5.5,4
+J2,Construction,Plan/CSA Compliance,6.5,4
+J2,Construction,Problem Resolution,4.8,4
+J2,Construction,Schedule Reliability,3.8,4
+J2,Construction,Trade Coordination,7.2,4
+J2,Construction,Work Quality,5.5,4
+J2,Construction,Would Choose Again,4.5,4
+J2,Purchasing,Avoids Work Order Adjustments,10.0,1
+J2,Purchasing,Bid Accuracy,9.7,3
+J2,Purchasing,Overall Value,8.0,3
+J2,Purchasing,Pricing Competitiveness,9.0,1
+J2,Purchasing,Proactive Communication,9.0,2
+J2,Purchasing,Responsiveness,8.3,3
+J2,Purchasing,Trust & Accountability,8.3,3
+J2,Warranty,Accountability,9.0,2
+J2,Warranty,First-Time Fix,9.0,2
+J2,Warranty,Homeowner Professionalism,8.0,2
+J2,Warranty,Response Time,6.0,2
+J2,Warranty,Scheduling Reliability,6.5,2
+J2,Warranty,Would Choose Again,7.5,2
+JD Concrete,Construction,Attention to Detail,9.5,4
+JD Concrete,Construction,Avoids VPO Requests,9.8,4
+JD Concrete,Construction,Communication,9.5,4
+JD Concrete,Construction,Follow Through,9.5,4
+JD Concrete,Construction,Plan/CSA Compliance,9.5,4
+JD Concrete,Construction,Problem Resolution,9.5,4
+JD Concrete,Construction,Schedule Reliability,9.5,4
+JD Concrete,Construction,Trade Coordination,9.5,4
+JD Concrete,Construction,Work Quality,9.0,4
+JD Concrete,Construction,Would Choose Again,9.5,4
+JD Concrete,Purchasing,Avoids Work Order Adjustments,8.0,1
+JD Concrete,Purchasing,Bid Accuracy,7.0,3
+JD Concrete,Purchasing,Invoice Accuracy,8.0,1
+JD Concrete,Purchasing,Overall Value,8.0,3
+JD Concrete,Purchasing,Pricing Competitiveness,10.0,1
+JD Concrete,Purchasing,Proactive Communication,8.5,2
+JD Concrete,Purchasing,Responsiveness,7.0,3
+JD Concrete,Purchasing,Trust & Accountability,8.3,3
+Lassiter,Construction,Attention to Detail,9.0,4
+Lassiter,Construction,Avoids VPO Requests,6.5,4
+Lassiter,Construction,Communication,9.0,4
+Lassiter,Construction,Follow Through,8.8,4
+Lassiter,Construction,Plan/CSA Compliance,9.5,4
+Lassiter,Construction,Problem Resolution,8.5,4
+Lassiter,Construction,Schedule Reliability,9.2,4
+Lassiter,Construction,Trade Coordination,9.2,4
+Lassiter,Construction,Work Quality,9.0,4
+Lassiter,Construction,Would Choose Again,9.0,4
+Lassiter,Purchasing,Avoids Work Order Adjustments,9.0,1
+Lassiter,Purchasing,Bid Accuracy,8.0,1
+Lassiter,Purchasing,Invoice Accuracy,7.0,1
+Lassiter,Purchasing,Overall Value,9.0,1
+Lassiter,Purchasing,Pricing Competitiveness,8.0,1
+Lassiter,Purchasing,Proactive Communication,7.0,1
+Lassiter,Purchasing,Responsiveness,7.0,1
+Lassiter,Purchasing,Trust & Accountability,10.0,1
+Lassiter,Warranty,Accountability,9.0,2
+Lassiter,Warranty,First-Time Fix,9.0,2
+Lassiter,Warranty,Homeowner Professionalism,8.5,2
+Lassiter,Warranty,Response Time,7.0,2
+Lassiter,Warranty,Scheduling Reliability,7.0,2
+Lassiter,Warranty,Would Choose Again,8.0,2
+Lleyva,Construction,Attention to Detail,7.8,4
+Lleyva,Construction,Avoids VPO Requests,7.2,4
+Lleyva,Construction,Communication,7.0,4
+Lleyva,Construction,Follow Through,7.0,4
+Lleyva,Construction,Plan/CSA Compliance,8.5,4
+Lleyva,Construction,Problem Resolution,7.5,4
+Lleyva,Construction,Schedule Reliability,6.8,4
+Lleyva,Construction,Trade Coordination,9.0,4
+Lleyva,Construction,Work Quality,7.8,4
+Lleyva,Construction,Would Choose Again,8.2,4
+Lleyva,Purchasing,Avoids Work Order Adjustments,8.0,1
+Lleyva,Purchasing,Bid Accuracy,6.3,3
+Lleyva,Purchasing,Invoice Accuracy,5.5,2
+Lleyva,Purchasing,Overall Value,7.7,3
+Lleyva,Purchasing,Pricing Competitiveness,10.0,2
+Lleyva,Purchasing,Proactive Communication,6.0,3
+Lleyva,Purchasing,Responsiveness,5.0,3
+Lleyva,Purchasing,Trust & Accountability,8.7,3
+Lleyva,Warranty,Accountability,9.0,2
+Lleyva,Warranty,First-Time Fix,8.5,2
+Lleyva,Warranty,Homeowner Professionalism,5.5,2
+Lleyva,Warranty,Response Time,5.0,2
+Lleyva,Warranty,Scheduling Reliability,5.5,2
+Lleyva,Warranty,Would Choose Again,6.5,2
+MLD,Construction,Attention to Detail,8.5,4
+MLD,Construction,Avoids VPO Requests,8.8,4
+MLD,Construction,Communication,8.5,4
+MLD,Construction,Follow Through,7.8,4
+MLD,Construction,Plan/CSA Compliance,9.0,4
+MLD,Construction,Problem Resolution,7.0,4
+MLD,Construction,Schedule Reliability,9.0,4
+MLD,Construction,Trade Coordination,9.0,4
+MLD,Construction,Work Quality,8.2,4
+MLD,Construction,Would Choose Again,8.2,4
+MLD,Purchasing,Avoids Work Order Adjustments,10.0,1
+MLD,Purchasing,Bid Accuracy,8.0,3
+MLD,Purchasing,Invoice Accuracy,8.0,1
+MLD,Purchasing,Overall Value,9.0,3
+MLD,Purchasing,Pricing Competitiveness,9.0,1
+MLD,Purchasing,Proactive Communication,9.0,3
+MLD,Purchasing,Responsiveness,9.3,3
+MLD,Purchasing,Trust & Accountability,8.7,3
+MLD,Warranty,Accountability,9.0,2
+MLD,Warranty,First-Time Fix,9.0,2
+MLD,Warranty,Homeowner Professionalism,8.5,2
+MLD,Warranty,Response Time,9.0,2
+MLD,Warranty,Scheduling Reliability,9.0,2
+MLD,Warranty,Would Choose Again,8.5,2
+MR Paint,Construction,Attention to Detail,9.5,4
+MR Paint,Construction,Avoids VPO Requests,5.0,4
+MR Paint,Construction,Communication,9.5,4
+MR Paint,Construction,Follow Through,9.5,4
+MR Paint,Construction,Plan/CSA Compliance,9.8,4
+MR Paint,Construction,Problem Resolution,9.2,4
+MR Paint,Construction,Schedule Reliability,10.0,4
+MR Paint,Construction,Trade Coordination,9.8,4
+MR Paint,Construction,Work Quality,8.8,4
+MR Paint,Construction,Would Choose Again,9.5,4
+MR Paint,Purchasing,Avoids Work Order Adjustments,10.0,1
+MR Paint,Purchasing,Bid Accuracy,10.0,2
+MR Paint,Purchasing,Invoice Accuracy,7.0,1
+MR Paint,Purchasing,Overall Value,9.5,2
+MR Paint,Purchasing,Pricing Competitiveness,10.0,1
+MR Paint,Purchasing,Proactive Communication,9.0,2
+MR Paint,Purchasing,Responsiveness,9.5,2
+MR Paint,Purchasing,Trust & Accountability,9.5,2
+MR Paint,Warranty,Accountability,9.5,2
+MR Paint,Warranty,First-Time Fix,9.5,2
+MR Paint,Warranty,Homeowner Professionalism,8.5,2
+MR Paint,Warranty,Response Time,9.5,2
+MR Paint,Warranty,Scheduling Reliability,8.5,2
+MR Paint,Warranty,Would Choose Again,9.5,2
+Monument Drywall,Construction,Attention to Detail,6.8,4
+Monument Drywall,Construction,Avoids VPO Requests,6.8,4
+Monument Drywall,Construction,Communication,7.5,4
+Monument Drywall,Construction,Follow Through,6.8,4
+Monument Drywall,Construction,Plan/CSA Compliance,8.5,4
+Monument Drywall,Construction,Problem Resolution,6.8,4
+Monument Drywall,Construction,Schedule Reliability,8.2,4
+Monument Drywall,Construction,Trade Coordination,7.8,4
+Monument Drywall,Construction,Work Quality,7.0,4
+Monument Drywall,Construction,Would Choose Again,7.2,4
+Monument Drywall,Purchasing,Avoids Work Order Adjustments,9.0,1
+Monument Drywall,Purchasing,Bid Accuracy,10.0,3
+Monument Drywall,Purchasing,Overall Value,8.3,3
+Monument Drywall,Purchasing,Pricing Competitiveness,8.0,1
+Monument Drywall,Purchasing,Proactive Communication,8.5,2
+Monument Drywall,Purchasing,Responsiveness,8.0,3
+Monument Drywall,Purchasing,Trust & Accountability,8.7,3
+Monument Drywall,Warranty,Accountability,9.0,2
+Monument Drywall,Warranty,First-Time Fix,9.0,2
+Monument Drywall,Warranty,Homeowner Professionalism,9.0,2
+Monument Drywall,Warranty,Response Time,9.0,2
+Monument Drywall,Warranty,Scheduling Reliability,8.0,2
+Monument Drywall,Warranty,Would Choose Again,9.0,2
+Nova Lighting,Construction,Attention to Detail,9.2,4
+Nova Lighting,Construction,Avoids VPO Requests,8.5,4
+Nova Lighting,Construction,Communication,9.8,4
+Nova Lighting,Construction,Follow Through,9.8,4
+Nova Lighting,Construction,Plan/CSA Compliance,9.5,4
+Nova Lighting,Construction,Problem Resolution,9.2,4
+Nova Lighting,Construction,Schedule Reliability,9.5,4
+Nova Lighting,Construction,Trade Coordination,9.5,4
+Nova Lighting,Construction,Work Quality,9.5,4
+Nova Lighting,Construction,Would Choose Again,9.8,4
+Nova Lighting,Purchasing,Avoids Work Order Adjustments,9.0,1
+Nova Lighting,Purchasing,Bid Accuracy,10.0,3
+Nova Lighting,Purchasing,Invoice Accuracy,10.0,1
+Nova Lighting,Purchasing,Overall Value,9.7,3
+Nova Lighting,Purchasing,Pricing Competitiveness,9.0,1
+Nova Lighting,Purchasing,Proactive Communication,9.3,3
+Nova Lighting,Purchasing,Responsiveness,10.0,3
+Nova Lighting,Purchasing,Trust & Accountability,10.0,3
+Nova Lighting,Warranty,Accountability,9.5,2
+Nova Lighting,Warranty,First-Time Fix,9.0,2
+Nova Lighting,Warranty,Homeowner Professionalism,9.0,2
+Nova Lighting,Warranty,Response Time,9.0,2
+Nova Lighting,Warranty,Scheduling Reliability,9.0,2
+Nova Lighting,Warranty,Would Choose Again,9.0,2
+Platinum Woodwork,Construction,Attention to Detail,8.5,2
+Platinum Woodwork,Construction,Avoids VPO Requests,7.5,2
+Platinum Woodwork,Construction,Communication,8.5,2
+Platinum Woodwork,Construction,Follow Through,9.0,2
+Platinum Woodwork,Construction,Plan/CSA Compliance,9.0,2
+Platinum Woodwork,Construction,Problem Resolution,9.0,2
+Platinum Woodwork,Construction,Schedule Reliability,8.5,2
+Platinum Woodwork,Construction,Trade Coordination,7.5,2
+Platinum Woodwork,Construction,Work Quality,9.0,2
+Platinum Woodwork,Construction,Would Choose Again,8.5,2
+Platinum Woodwork,Purchasing,Avoids Work Order Adjustments,10.0,1
+Platinum Woodwork,Purchasing,Bid Accuracy,10.0,2
+Platinum Woodwork,Purchasing,Invoice Accuracy,10.0,1
+Platinum Woodwork,Purchasing,Overall Value,9.5,2
+Platinum Woodwork,Purchasing,Pricing Competitiveness,9.5,2
+Platinum Woodwork,Purchasing,Proactive Communication,9.5,2
+Platinum Woodwork,Purchasing,Responsiveness,9.5,2
+Platinum Woodwork,Purchasing,Trust & Accountability,9.5,2
+Precision Flatwork,Construction,Attention to Detail,6.5,4
+Precision Flatwork,Construction,Avoids VPO Requests,9.8,4
+Precision Flatwork,Construction,Communication,7.5,4
+Precision Flatwork,Construction,Follow Through,6.8,4
+Precision Flatwork,Construction,Plan/CSA Compliance,7.5,4
+Precision Flatwork,Construction,Problem Resolution,6.8,4
+Precision Flatwork,Construction,Schedule Reliability,8.2,4
+Precision Flatwork,Construction,Trade Coordination,8.2,4
+Precision Flatwork,Construction,Work Quality,6.2,4
+Precision Flatwork,Construction,Would Choose Again,6.5,4
+Precision Flatwork,Purchasing,Avoids Work Order Adjustments,10.0,1
+Precision Flatwork,Purchasing,Bid Accuracy,10.0,1
+Precision Flatwork,Purchasing,Overall Value,8.0,1
+Precision Flatwork,Purchasing,Pricing Competitiveness,10.0,1
+Precision Flatwork,Purchasing,Responsiveness,6.0,1
+Precision Flatwork,Purchasing,Trust & Accountability,10.0,1
+Precision Flatwork,Warranty,Accountability,10.0,1
+Precision Flatwork,Warranty,First-Time Fix,10.0,1
+Precision Flatwork,Warranty,Homeowner Professionalism,10.0,1
+Precision Flatwork,Warranty,Response Time,3.0,1
+Precision Flatwork,Warranty,Scheduling Reliability,3.0,1
+Precision Flatwork,Warranty,Would Choose Again,6.0,1
+Premier Insulation,Construction,Attention to Detail,8.5,4
+Premier Insulation,Construction,Avoids VPO Requests,6.8,4
+Premier Insulation,Construction,Communication,9.2,4
+Premier Insulation,Construction,Follow Through,8.5,4
+Premier Insulation,Construction,Plan/CSA Compliance,9.5,4
+Premier Insulation,Construction,Problem Resolution,8.5,4
+Premier Insulation,Construction,Schedule Reliability,9.2,4
+Premier Insulation,Construction,Trade Coordination,9.2,4
+Premier Insulation,Construction,Work Quality,8.2,4
+Premier Insulation,Construction,Would Choose Again,8.8,4
+Premier Insulation,Purchasing,Avoids Work Order Adjustments,9.0,1
+Premier Insulation,Purchasing,Bid Accuracy,10.0,3
+Premier Insulation,Purchasing,Invoice Accuracy,9.0,1
+Premier Insulation,Purchasing,Overall Value,10.0,3
+Premier Insulation,Purchasing,Pricing Competitiveness,9.0,1
+Premier Insulation,Purchasing,Proactive Communication,10.0,2
+Premier Insulation,Purchasing,Responsiveness,10.0,3
+Premier Insulation,Purchasing,Trust & Accountability,10.0,2
+Premier Insulation,Warranty,Accountability,9.5,2
+Premier Insulation,Warranty,First-Time Fix,9.0,2
+Premier Insulation,Warranty,Homeowner Professionalism,9.0,2
+Premier Insulation,Warranty,Response Time,9.0,2
+Premier Insulation,Warranty,Scheduling Reliability,9.0,2
+Premier Insulation,Warranty,Would Choose Again,9.0,2
+Provue,Construction,Attention to Detail,8.8,4
+Provue,Construction,Avoids VPO Requests,9.2,4
+Provue,Construction,Communication,8.8,4
+Provue,Construction,Follow Through,9.0,4
+Provue,Construction,Plan/CSA Compliance,9.0,4
+Provue,Construction,Problem Resolution,9.0,4
+Provue,Construction,Schedule Reliability,9.8,4
+Provue,Construction,Trade Coordination,8.8,4
+Provue,Construction,Work Quality,8.8,4
+Provue,Construction,Would Choose Again,8.0,4
+Provue,Purchasing,Avoids Work Order Adjustments,10.0,1
+Provue,Purchasing,Bid Accuracy,10.0,3
+Provue,Purchasing,Overall Value,9.7,3
+Provue,Purchasing,Pricing Competitiveness,10.0,1
+Provue,Purchasing,Proactive Communication,8.7,3
+Provue,Purchasing,Responsiveness,9.3,3
+Provue,Purchasing,Trust & Accountability,9.3,3
+Provue,Warranty,Accountability,7.5,2
+Provue,Warranty,First-Time Fix,8.5,2
+Provue,Warranty,Homeowner Professionalism,9.0,2
+Provue,Warranty,Response Time,6.5,2
+Provue,Warranty,Scheduling Reliability,7.5,2
+Provue,Warranty,Would Choose Again,7.0,2
+R1 Roofing,Construction,Attention to Detail,7.0,1
+R1 Roofing,Construction,Avoids VPO Requests,10.0,1
+R1 Roofing,Construction,Communication,7.0,1
+R1 Roofing,Construction,Follow Through,7.0,1
+R1 Roofing,Construction,Plan/CSA Compliance,10.0,1
+R1 Roofing,Construction,Problem Resolution,6.0,1
+R1 Roofing,Construction,Schedule Reliability,8.0,1
+R1 Roofing,Construction,Trade Coordination,8.0,1
+R1 Roofing,Construction,Work Quality,7.0,1
+R1 Roofing,Construction,Would Choose Again,8.0,1
+R1 Roofing,Purchasing,Avoids Work Order Adjustments,10.0,1
+R1 Roofing,Purchasing,Bid Accuracy,10.0,1
+R1 Roofing,Purchasing,Invoice Accuracy,9.0,1
+R1 Roofing,Purchasing,Overall Value,9.0,1
+R1 Roofing,Purchasing,Pricing Competitiveness,10.0,1
+R1 Roofing,Purchasing,Proactive Communication,10.0,1
+R1 Roofing,Purchasing,Responsiveness,10.0,1
+R1 Roofing,Purchasing,Trust & Accountability,10.0,1
+RMC,Construction,Attention to Detail,8.7,3
+RMC,Construction,Avoids VPO Requests,7.0,3
+RMC,Construction,Communication,8.3,3
+RMC,Construction,Follow Through,9.0,3
+RMC,Construction,Plan/CSA Compliance,8.7,3
+RMC,Construction,Problem Resolution,8.7,3
+RMC,Construction,Schedule Reliability,9.0,3
+RMC,Construction,Trade Coordination,7.3,3
+RMC,Construction,Work Quality,8.0,3
+RMC,Construction,Would Choose Again,8.3,3
+Republic,Construction,Attention to Detail,6.5,2
+Republic,Construction,Avoids VPO Requests,9.5,2
+Republic,Construction,Communication,9.0,2
+Republic,Construction,Follow Through,8.0,2
+Republic,Construction,Plan/CSA Compliance,7.5,2
+Republic,Construction,Problem Resolution,7.0,2
+Republic,Construction,Schedule Reliability,9.5,2
+Republic,Construction,Trade Coordination,8.5,2
+Republic,Construction,Work Quality,9.5,2
+Republic,Construction,Would Choose Again,8.0,2
+Stonehenge,Construction,Attention to Detail,8.2,4
+Stonehenge,Construction,Avoids VPO Requests,3.2,4
+Stonehenge,Construction,Communication,9.2,4
+Stonehenge,Construction,Follow Through,9.0,4
+Stonehenge,Construction,Plan/CSA Compliance,9.5,4
+Stonehenge,Construction,Problem Resolution,9.2,4
+Stonehenge,Construction,Schedule Reliability,8.8,4
+Stonehenge,Construction,Trade Coordination,9.2,4
+Stonehenge,Construction,Work Quality,9.0,4
+Stonehenge,Construction,Would Choose Again,9.0,4
+Stonehenge,Purchasing,Avoids Work Order Adjustments,4.0,1
+Stonehenge,Purchasing,Bid Accuracy,8.7,3
+Stonehenge,Purchasing,Invoice Accuracy,7.0,1
+Stonehenge,Purchasing,Overall Value,8.7,3
+Stonehenge,Purchasing,Pricing Competitiveness,8.0,1
+Stonehenge,Purchasing,Proactive Communication,8.5,2
+Stonehenge,Purchasing,Responsiveness,8.3,3
+Stonehenge,Purchasing,Trust & Accountability,8.0,3
+Stonehenge,Warranty,Accountability,8.5,2
+Stonehenge,Warranty,First-Time Fix,9.0,2
+Stonehenge,Warranty,Homeowner Professionalism,9.0,2
+Stonehenge,Warranty,Response Time,8.0,2
+Stonehenge,Warranty,Scheduling Reliability,8.5,2
+Stonehenge,Warranty,Would Choose Again,9.0,2
+Summit Waterproofing,Construction,Attention to Detail,8.5,4
+Summit Waterproofing,Construction,Avoids VPO Requests,8.5,4
+Summit Waterproofing,Construction,Communication,8.5,4
+Summit Waterproofing,Construction,Follow Through,8.8,4
+Summit Waterproofing,Construction,Plan/CSA Compliance,8.2,4
+Summit Waterproofing,Construction,Problem Resolution,8.5,4
+Summit Waterproofing,Construction,Schedule Reliability,8.8,4
+Summit Waterproofing,Construction,Trade Coordination,9.0,4
+Summit Waterproofing,Construction,Work Quality,8.5,4
+Summit Waterproofing,Construction,Would Choose Again,8.8,4
+Summit Waterproofing,Purchasing,Avoids Work Order Adjustments,9.0,1
+Summit Waterproofing,Purchasing,Bid Accuracy,10.0,1
+Summit Waterproofing,Purchasing,Invoice Accuracy,6.0,1
+Summit Waterproofing,Purchasing,Overall Value,10.0,1
+Summit Waterproofing,Purchasing,Pricing Competitiveness,10.0,1
+Summit Waterproofing,Purchasing,Proactive Communication,8.0,1
+Summit Waterproofing,Purchasing,Responsiveness,7.0,1
+Summit Waterproofing,Purchasing,Trust & Accountability,10.0,1
+Summit Waterproofing,Warranty,Accountability,9.0,2
+Summit Waterproofing,Warranty,First-Time Fix,9.0,2
+Summit Waterproofing,Warranty,Homeowner Professionalism,9.0,2
+Summit Waterproofing,Warranty,Response Time,8.0,2
+Summit Waterproofing,Warranty,Scheduling Reliability,9.0,2
+Summit Waterproofing,Warranty,Would Choose Again,9.0,2
+Sunpro Exterior Doors,Construction,Attention to Detail,9.5,2
+Sunpro Exterior Doors,Construction,Avoids VPO Requests,10.0,2
+Sunpro Exterior Doors,Construction,Communication,6.5,2
+Sunpro Exterior Doors,Construction,Follow Through,9.5,2
+Sunpro Exterior Doors,Construction,Plan/CSA Compliance,9.5,2
+Sunpro Exterior Doors,Construction,Problem Resolution,8.5,2
+Sunpro Exterior Doors,Construction,Schedule Reliability,9.5,2
+Sunpro Exterior Doors,Construction,Trade Coordination,9.0,2
+Sunpro Exterior Doors,Construction,Work Quality,9.0,2
+Sunpro Exterior Doors,Construction,Would Choose Again,9.5,2
+Sunpro Exterior Doors,Purchasing,Avoids Work Order Adjustments,10.0,1
+Sunpro Exterior Doors,Purchasing,Bid Accuracy,10.0,1
+Sunpro Exterior Doors,Purchasing,Invoice Accuracy,9.0,1
+Sunpro Exterior Doors,Purchasing,Overall Value,10.0,1
+Sunpro Exterior Doors,Purchasing,Pricing Competitiveness,8.0,1
+Sunpro Exterior Doors,Purchasing,Proactive Communication,10.0,1
+Sunpro Exterior Doors,Purchasing,Responsiveness,10.0,1
+Sunpro Exterior Doors,Purchasing,Trust & Accountability,10.0,1
+Sunpro Exterior Doors,Warranty,Accountability,8.0,2
+Sunpro Exterior Doors,Warranty,First-Time Fix,9.0,2
+Sunpro Exterior Doors,Warranty,Homeowner Professionalism,8.5,2
+Sunpro Exterior Doors,Warranty,Response Time,6.5,2
+Sunpro Exterior Doors,Warranty,Scheduling Reliability,8.5,2
+Sunpro Exterior Doors,Warranty,Would Choose Again,9.0,2
+Sunpro Framing Material,Construction,Attention to Detail,8.8,4
+Sunpro Framing Material,Construction,Avoids VPO Requests,7.8,4
+Sunpro Framing Material,Construction,Communication,9.2,4
+Sunpro Framing Material,Construction,Follow Through,8.2,4
+Sunpro Framing Material,Construction,Plan/CSA Compliance,9.2,4
+Sunpro Framing Material,Construction,Problem Resolution,8.8,4
+Sunpro Framing Material,Construction,Schedule Reliability,8.8,4
+Sunpro Framing Material,Construction,Trade Coordination,9.2,4
+Sunpro Framing Material,Construction,Work Quality,9.0,4
+Sunpro Framing Material,Construction,Would Choose Again,9.2,4
+Sunpro Framing Material,Purchasing,Avoids Work Order Adjustments,9.0,1
+Sunpro Framing Material,Purchasing,Bid Accuracy,10.0,3
+Sunpro Framing Material,Purchasing,Invoice Accuracy,10.0,1
+Sunpro Framing Material,Purchasing,Overall Value,9.7,3
+Sunpro Framing Material,Purchasing,Pricing Competitiveness,10.0,1
+Sunpro Framing Material,Purchasing,Proactive Communication,9.3,3
+Sunpro Framing Material,Purchasing,Responsiveness,9.3,3
+Sunpro Framing Material,Purchasing,Trust & Accountability,10.0,3
+Sunpro Framing Material,Warranty,Accountability,10.0,1
+Sunpro Framing Material,Warranty,First-Time Fix,10.0,1
+Sunpro Framing Material,Warranty,Homeowner Professionalism,10.0,1
+Sunpro Framing Material,Warranty,Response Time,8.0,1
+Sunpro Framing Material,Warranty,Scheduling Reliability,10.0,1
+Sunpro Framing Material,Warranty,Would Choose Again,10.0,1
+Sunpro/Kyle Framing,Construction,Attention to Detail,9.5,4
+Sunpro/Kyle Framing,Construction,Avoids VPO Requests,7.8,4
+Sunpro/Kyle Framing,Construction,Communication,9.5,4
+Sunpro/Kyle Framing,Construction,Follow Through,9.5,4
+Sunpro/Kyle Framing,Construction,Plan/CSA Compliance,9.5,4
+Sunpro/Kyle Framing,Construction,Problem Resolution,9.5,4
+Sunpro/Kyle Framing,Construction,Schedule Reliability,9.5,4
+Sunpro/Kyle Framing,Construction,Trade Coordination,8.2,4
+Sunpro/Kyle Framing,Construction,Work Quality,9.2,4
+Sunpro/Kyle Framing,Construction,Would Choose Again,9.2,4
+Surge Electric,Construction,Attention to Detail,9.0,1
+Surge Electric,Construction,Avoids VPO Requests,10.0,1
+Surge Electric,Construction,Communication,9.0,1
+Surge Electric,Construction,Follow Through,9.0,1
+Surge Electric,Construction,Plan/CSA Compliance,9.0,1
+Surge Electric,Construction,Problem Resolution,9.0,1
+Surge Electric,Construction,Schedule Reliability,8.0,1
+Surge Electric,Construction,Trade Coordination,9.0,1
+Surge Electric,Construction,Work Quality,9.0,1
+Surge Electric,Construction,Would Choose Again,9.0,1
+Surge Electric,Purchasing,Avoids Work Order Adjustments,10.0,1
+Surge Electric,Purchasing,Bid Accuracy,7.0,1
+Surge Electric,Purchasing,Invoice Accuracy,8.0,1
+Surge Electric,Purchasing,Overall Value,8.0,1
+Surge Electric,Purchasing,Pricing Competitiveness,7.0,1
+Surge Electric,Purchasing,Proactive Communication,9.0,1
+Surge Electric,Purchasing,Responsiveness,9.0,1
+Surge Electric,Purchasing,Trust & Accountability,8.0,1
+Thomas Brothers Drywall,Construction,Attention to Detail,5.0,1
+Thomas Brothers Drywall,Construction,Avoids VPO Requests,8.0,1
+Thomas Brothers Drywall,Construction,Communication,8.0,1
+Thomas Brothers Drywall,Construction,Follow Through,6.0,1
+Thomas Brothers Drywall,Construction,Plan/CSA Compliance,10.0,1
+Thomas Brothers Drywall,Construction,Problem Resolution,6.0,1
+Thomas Brothers Drywall,Construction,Schedule Reliability,8.0,1
+Thomas Brothers Drywall,Construction,Trade Coordination,6.0,1
+Thomas Brothers Drywall,Construction,Work Quality,6.0,1
+Thomas Brothers Drywall,Construction,Would Choose Again,6.0,1
+Thomas Brothers Drywall,Purchasing,Avoids Work Order Adjustments,9.0,1
+Thomas Brothers Drywall,Purchasing,Bid Accuracy,7.0,1
+Thomas Brothers Drywall,Purchasing,Invoice Accuracy,7.0,1
+Thomas Brothers Drywall,Purchasing,Overall Value,8.0,1
+Thomas Brothers Drywall,Purchasing,Pricing Competitiveness,7.0,1
+Thomas Brothers Drywall,Purchasing,Proactive Communication,8.0,1
+Thomas Brothers Drywall,Purchasing,Responsiveness,7.0,1
+Thomas Brothers Drywall,Purchasing,Trust & Accountability,8.0,1
+UDC,Construction,Attention to Detail,8.2,4
+UDC,Construction,Avoids VPO Requests,5.2,4
+UDC,Construction,Communication,9.5,4
+UDC,Construction,Follow Through,9.2,4
+UDC,Construction,Plan/CSA Compliance,9.2,4
+UDC,Construction,Problem Resolution,8.2,4
+UDC,Construction,Schedule Reliability,9.2,4
+UDC,Construction,Trade Coordination,9.0,3
+UDC,Construction,Work Quality,7.5,4
+UDC,Construction,Would Choose Again,8.2,4
+UDC,Purchasing,Avoids Work Order Adjustments,9.0,1
+UDC,Purchasing,Bid Accuracy,10.0,3
+UDC,Purchasing,Invoice Accuracy,9.0,1
+UDC,Purchasing,Overall Value,9.7,3
+UDC,Purchasing,Pricing Competitiveness,8.0,1
+UDC,Purchasing,Proactive Communication,9.7,3
+UDC,Purchasing,Responsiveness,9.7,3
+UDC,Purchasing,Trust & Accountability,9.7,3
+UDC,Warranty,Accountability,8.0,2
+UDC,Warranty,First-Time Fix,9.5,2
+UDC,Warranty,Homeowner Professionalism,10.0,2
+UDC,Warranty,Response Time,9.5,2
+UDC,Warranty,Scheduling Reliability,8.5,2
+UDC,Warranty,Would Choose Again,8.5,2
+VZION,Construction,Attention to Detail,9.0,1
+VZION,Construction,Avoids VPO Requests,6.0,1
+VZION,Construction,Communication,9.0,1
+VZION,Construction,Follow Through,10.0,1
+VZION,Construction,Plan/CSA Compliance,9.0,1
+VZION,Construction,Problem Resolution,9.0,1
+VZION,Construction,Schedule Reliability,9.0,1
+VZION,Construction,Trade Coordination,8.0,1
+VZION,Construction,Work Quality,9.0,1
+VZION,Construction,Would Choose Again,5.0,1
+VZION,Purchasing,Avoids Work Order Adjustments,10.0,1
+VZION,Purchasing,Bid Accuracy,8.3,3
+VZION,Purchasing,Invoice Accuracy,7.0,1
+VZION,Purchasing,Overall Value,8.7,3
+VZION,Purchasing,Pricing Competitiveness,7.0,1
+VZION,Purchasing,Proactive Communication,8.7,3
+VZION,Purchasing,Responsiveness,8.3,3
+VZION,Purchasing,Trust & Accountability,8.3,3
+VZION,Warranty,Accountability,8.5,2
+VZION,Warranty,First-Time Fix,9.0,2
+VZION,Warranty,Homeowner Professionalism,9.5,2
+VZION,Warranty,Response Time,6.5,2
+VZION,Warranty,Scheduling Reliability,9.0,2
+VZION,Warranty,Would Choose Again,6.5,2
+Vanguard Energy,Construction,Attention to Detail,9.5,4
+Vanguard Energy,Construction,Avoids VPO Requests,9.0,4
+Vanguard Energy,Construction,Communication,9.2,4
+Vanguard Energy,Construction,Follow Through,9.5,4
+Vanguard Energy,Construction,Plan/CSA Compliance,9.5,4
+Vanguard Energy,Construction,Problem Resolution,9.0,4
+Vanguard Energy,Construction,Schedule Reliability,9.8,4
+Vanguard Energy,Construction,Trade Coordination,9.2,4
+Vanguard Energy,Construction,Work Quality,9.2,4
+Vanguard Energy,Construction,Would Choose Again,9.5,4
+Vidor,Construction,Attention to Detail,6.5,2
+Vidor,Construction,Avoids VPO Requests,3.5,2
+Vidor,Construction,Communication,7.0,2
+Vidor,Construction,Follow Through,7.0,2
+Vidor,Construction,Plan/CSA Compliance,7.5,2
+Vidor,Construction,Problem Resolution,5.5,2
+Vidor,Construction,Trade Coordination,6.0,2
+Vidor,Construction,Work Quality,8.0,2
+Vidor,Construction,Would Choose Again,7.0,2
+Vidor,Purchasing,Avoids Work Order Adjustments,9.0,1
+Vidor,Purchasing,Bid Accuracy,9.0,3
+Vidor,Purchasing,Invoice Accuracy,9.0,1
+Vidor,Purchasing,Overall Value,9.3,3
+Vidor,Purchasing,Pricing Competitiveness,8.0,1
+Vidor,Purchasing,Proactive Communication,8.7,3
+Vidor,Purchasing,Responsiveness,9.3,3
+Vidor,Purchasing,Trust & Accountability,9.3,3
+Vidor,Warranty,Accountability,7.5,2
+Vidor,Warranty,First-Time Fix,8.5,2
+Vidor,Warranty,Homeowner Professionalism,9.5,2
+Vidor,Warranty,Scheduling Reliability,8.5,2
+Vidor,Warranty,Would Choose Again,9.0,2
+WB Roofing,Construction,Attention to Detail,8.5,4
+WB Roofing,Construction,Avoids VPO Requests,7.2,4
+WB Roofing,Construction,Communication,9.2,4
+WB Roofing,Construction,Follow Through,9.8,4
+WB Roofing,Construction,Plan/CSA Compliance,9.5,4
+WB Roofing,Construction,Problem Resolution,8.8,4
+WB Roofing,Construction,Schedule Reliability,9.8,4
+WB Roofing,Construction,Trade Coordination,9.0,4
+WB Roofing,Construction,Work Quality,8.8,4
+WB Roofing,Construction,Would Choose Again,9.0,4
+WB Roofing,Purchasing,Avoids Work Order Adjustments,8.0,1
+WB Roofing,Purchasing,Bid Accuracy,6.3,3
+WB Roofing,Purchasing,Invoice Accuracy,9.0,1
+WB Roofing,Purchasing,Overall Value,8.0,3
+WB Roofing,Purchasing,Pricing Competitiveness,8.0,1
+WB Roofing,Purchasing,Proactive Communication,8.7,3
+WB Roofing,Purchasing,Responsiveness,9.0,3
+WB Roofing,Purchasing,Trust & Accountability,8.0,3
+WB Roofing,Warranty,Accountability,6.5,2
+WB Roofing,Warranty,First-Time Fix,9.5,2
+WB Roofing,Warranty,Homeowner Professionalism,9.0,2
+WB Roofing,Warranty,Response Time,8.0,2
+WB Roofing,Warranty,Scheduling Reliability,8.0,2
+WB Roofing,Warranty,Would Choose Again,7.5,2
